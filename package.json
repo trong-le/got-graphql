@@ -1,0 +1,17 @@
+{
+  "name": "got-graphql",
+  "version": "1.0.0",
+  "description": "Information on characters in Game of Thrones.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "trong-le",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.12.3"
+  }
+}
